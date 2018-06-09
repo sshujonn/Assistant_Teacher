@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">AssistanTeacher</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_courses">Courses</string>
+    <string name="Select_sex">Select Sex</string>
+    <string-array name="sex">
+        <item>"Male"</item>
+        <item>Female</item>
+
+    </string-array>
+
+    <string name="Select_designation">Select Designation</string>
+    <string-array name="designaton">
+        <item>"Professor"</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+        <item>Lecturer</item>
+
+    </string-array>
+    <string name="title_activity_add_courses">AddCourses</string>
+
+    <string name="Select_degree">Select Degree</string>
+    <string-array name="degree">
+        <item>"B.Sc"</item>
+        <item>"M.Sc"</item>
+    </string-array>
+
+    <string name="Select_year">Select Degree</string>
+    <string-array name="year">
+        <item>"1st"</item>
+        <item>"2nd"</item>
+        <item>"3rd"</item>
+        <item>"4th"</item>
+    </string-array>
+
+    <string name="Select_term">Select Degree</string>
+    <string-array name="term">
+        <item>"i"</item>
+        <item>"ii"</item>
+    </string-array>
+
+</resources>
